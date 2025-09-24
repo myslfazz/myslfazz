@@ -1,4 +1,9 @@
-## Hi there👋, I'm AZMATH PASHA
+# Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=I'm+AZMATH+PASHA;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+🚀)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=myslfazz&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ### 🚀 A passionate Full Stack Developer!!
 
@@ -7,6 +12,11 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, MySQL**
 - 📫 Reach me at: **azmathpasha003@gmail.com**
 - ⚡ Fun fact: I love solving problems and learning new tech 🚀
+
+---
+
+## 🛠️ My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,git,linux&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -46,8 +56,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myslfazz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myslfazz&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myslfazz&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.herokuapp.com/?user=myslfazz&theme=tokyonight)  
 
 ---
 
