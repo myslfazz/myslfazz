@@ -33,8 +33,8 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
   </a>
   <a href="https://linktr.ee/myslfazz" target="_blank">
-    <img src="https://img.icons8.com/external-others-inmotus-design/67/external-portfolio-business-management-others-inmotus-design.png" width="40" alt="Portfolio"/>
-  </a>
+  <img src="https://img.icons8.com/fluency/48/briefcase.png" width="40" alt="Portfolio"/>
+</a>
 </p>
 
 
