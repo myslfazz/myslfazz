@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hii there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=I'm+AZMATH+PASHA;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+🚀)](https://git.io/typing-svg)
 
@@ -21,10 +21,22 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmathpasha003) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://linktr.ee/myslfazz)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/myslfazz)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/myslfazz)
+
+<p align="left">
+  <a href="https://linkedin.com/in/myslfazz" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/myslfazz" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/twitterx.png" width="40" alt="X"/>
+  </a>
+  <a href="https://instagram.com/myslfazz" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://myslfazz.github.io" target="_blank">
+    <img src="https://img.icons8.com/external-others-inmotus-design/67/external-portfolio-business-management-others-inmotus-design.png" width="40" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
