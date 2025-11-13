@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=I'm+AZMATH+PASHA;Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+🚀)](https://git.io/typing-svg)
 
+<h3 align="center">A passionate Engineering student with a solid foundation in Information science and Engineering.Specializing in Full Stack Development.Proficient in Front-end Technologies such as HTML,CSS,JavaScript, and aspiring to focus on React.js,Node.js,Express.js..</h3>
+
 ![Profile views](https://komarev.com/ghpvc/?username=myslfazz&label=Profile%20views&color=0e75b6&style=flat)
 
 
