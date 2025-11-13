@@ -1,9 +1,9 @@
 # Hii there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=I'm+AZMATH+PASHA)](https://git.io/typing-svg)
+<h1>I'm Azmath Pasha</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&width=600&lines=A+Software+Engineer;Passionate+Full+Stack+Web+Developer;Also+an+Open+Source+Contributor;Always+Learning+,Forever+curious+🚀)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate Engineering student with a solid foundation in Information science and Engineering.Specializing in Full Stack Development.Proficient in Front-end Technologies such as HTML,CSS,JavaScript, and aspiring to focus on React.js,Node.js,Express.js..</h3>
+<h3>A passionate Engineering student with a solid foundation in Information science and Engineering.Specializing in Full Stack Development.Proficient in Front-end Technologies such as HTML,CSS,JavaScript, and aspiring to focus on React.js,Node.js,Express.js..</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=myslfazz&label=Profile%20views&color=0e75b6&style=flat)
 
